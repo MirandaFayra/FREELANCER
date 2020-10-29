@@ -53,32 +53,33 @@ O desafio consiste em replicar o site **Freelancer** e o resultado desejado é e
 * Indentação
 * Arquivo `README.md` atualizado e escrito corretamente -->
 
-# Título
+# Freelancer
 
-## Objetivo
-
-## Conceitos-Chaves Estudados
-
-*
-*
-*
+## Objectives
 
 
-### Autoria e Contribuição
-
-## Resultados Práticos
-
-##Fonte Desafio
+The main objective of this project is to replicate the challenge of the Freelancer website produced by Laboratória's bootcamp, developing skills in HTML (tags and semantics) and CSS (styling, id, class and positioning).
 
 
-## Links Anotações de Estudo
+## Key Concepts Studied
 
-*
+* Flex- Container (Display-flex; flex-direction;flex-wrap;felx-flow, justify-content, align-items and align-contents);
+* Tags HTML and HTML Semantics;
+* Id X Class
 
-## Guia de Instalação
 
-## Referências
+## Source of Challenge 
 
-## Documentação
+https://github.com/Laboratoria
+
+
+## Bibliographic References
+
+* https://origamid.com/projetos/flexbox-guia-completo/ ;
+* https://www.devmedia.com.br/css3-flexbox-funcionamento-e-propriedades/29532#items;
+* https://www.w3.org/Style/Examples/007/center.pt_BR.html;
+* https://www.w3schools.com/css/css_positioning.asp.
+* https://rogerdudler.github.io/git-guide/index.pt_BR.html.
+
 
 
