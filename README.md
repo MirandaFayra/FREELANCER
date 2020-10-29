@@ -55,27 +55,28 @@ O desafio consiste em replicar o site **Freelancer** e o resultado desejado é e
 
 # Título
 
-## Autoria e Contribuição
+### Autoria e Contribuição
 
-### Fonte Desafio
+## Fonte Desafio
 
 ## Objetivo
 
-##Conceitos-Chaves Estudados:
+## Conceitos-Chaves Estudados
 
 *
 *
 *
-## Links Anotações de Estudo:
+## Links Anotações de Estudo
 
 *
 
-## Guia de Instalação:
+## Guia de Instalação
 
 
-## Resultados Práticos:
+## Resultados Práticos
 
 ## Referências
 
 ## Documentação
+
 
