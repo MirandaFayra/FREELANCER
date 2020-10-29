@@ -1,4 +1,4 @@
-# Freelancer
+<!-- # Freelancer
 
 * **Track:** _Common Core_
 * **Curso:** _Criando um site interativo_
@@ -51,4 +51,4 @@ O desafio consiste em replicar o site **Freelancer** e o resultado desejado é e
 
 * Nomes de classes, ids e etc
 * Indentação
-* Arquivo `README.md` atualizado e escrito corretamente
+* Arquivo `README.md` atualizado e escrito corretamente -->
