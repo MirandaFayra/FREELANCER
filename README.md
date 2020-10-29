@@ -52,3 +52,30 @@ O desafio consiste em replicar o site **Freelancer** e o resultado desejado é e
 * Nomes de classes, ids e etc
 * Indentação
 * Arquivo `README.md` atualizado e escrito corretamente -->
+
+# Título
+
+## Autoria e Contribuição
+
+### Fonte Desafio
+
+## Objetivo
+
+##Conceitos-Chaves Estudados:
+
+*
+*
+*
+## Links Anotações de Estudo:
+
+*
+
+## Guia de Instalação:
+
+
+## Resultados Práticos:
+
+## Referências
+
+## Documentação
+
