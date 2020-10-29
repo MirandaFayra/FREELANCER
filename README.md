@@ -60,12 +60,14 @@ O desafio consiste em replicar o site **Freelancer** e o resultado desejado é e
 
 The main objective of this project is to replicate the challenge of the Freelancer website produced by Laboratória's bootcamp, developing skills in HTML (tags and semantics) and CSS (styling, id, class and positioning).
 
+![Freelancer Website](docs/fullpage.png)
+
 
 ## Key Concepts Studied
 
 * Flex- Container (Display-flex; flex-direction;flex-wrap;felx-flow, justify-content, align-items and align-contents);
 * Tags HTML and HTML Semantics;
-* Id X Class
+* Id X Class.
 
 
 ## Source of Challenge 
@@ -80,6 +82,7 @@ https://github.com/Laboratoria
 * https://www.w3.org/Style/Examples/007/center.pt_BR.html;
 * https://www.w3schools.com/css/css_positioning.asp.
 * https://rogerdudler.github.io/git-guide/index.pt_BR.html.
+* https://imagecolorpicker.com/pt/ .
 
 
 
