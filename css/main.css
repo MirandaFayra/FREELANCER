@@ -167,7 +167,26 @@ h3 {
 .contactme {
     background-color: purple;
     height: 1058px;
+    align-items:center;
 }
+
+.formulario{ 
+    justify-content:center;
+    align-items: center;
+    position: relative;
+    left:550px;
+    top:250px;
+    }
+
+.espaço{
+       padding-bottom: 10px;
+
+    }
+
+#name{
+    border-radius: 10px;
+}
+
 
 .footer {
     background-color: #2c3e50;
