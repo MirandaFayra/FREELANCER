@@ -165,29 +165,68 @@ h3 {
 }
 
 .contactme {
-    background-color: purple;
-    height: 1058px;
+    background-color:white;
+    height: 850px;
     align-items:center;
+    color:#2c3e50;
 }
 
 .formulario{ 
     justify-content:center;
     align-items: center;
     position: relative;
-    left:550px;
-    top:250px;
+    left:460px;
+    top:300px;
+    border-color:white;
     }
 
 .espaço{
-       padding-bottom: 10px;
+       padding-bottom: 40px;
 
     }
 
-#name{
-    border-radius: 10px;
+#nome{
+    border-radius: 5px;
+    color:#2c3e50 ;
+    width: 400px;
+    box-shadow: none;
+    border-style:none;
 }
 
+#email{
+    border-radius: 5px;
+    color:#2c3e50 ;
+    width: 400px;
+    box-shadow: none;
+    border-style:none;
+}
+#phone{
+    border-radius: 5px;
+    color:#2c3e50 ;
+    width: 400px;
+    box-shadow: none;
+    border-style:none;
+}
 
+#msg{
+        border-radius: 5px;
+        color:#2c3e50 ;
+        width: 400px;
+        box-shadow: none;
+        border-style:none;
+}
+
+.send{
+    font-family: Lato;
+    background-color: #18bc9c;
+    color: white;
+    width: 80px;
+    height: 40px;
+    border-color: white;
+    border-style: double;
+    border-radius:8px;
+    margin-top: 80px;
+}
 .footer {
     background-color: #2c3e50;
     height: 378px;
