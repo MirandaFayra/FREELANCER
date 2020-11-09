@@ -53,10 +53,31 @@ h1,h2,h3,h4 {
 
 
 }
-
+.bonequinho{
+    /* align-items:center;
+    justify-content: center;
+    display: flex; */
+    height: 200px;
+    width: 200px;
+    position: relative;
+    left: 200px;
+    top:-50px;
+}
+.separador1{
+    width: 250px;
+    height: 150px;
+    align-items:center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+    top:-80px;
+    right:-200px;
+    margin: 0;
+    
+}
 .start {
     background-color: #18bc9c;
-    height: 690px;
+    height: 700px;
     color: white;
     display: flex;
     justify-content: center;
@@ -64,18 +85,12 @@ h1,h2,h3,h4 {
 }
 
 .textostart {
-    /* text-align: center; */
-    /* bottom: -350px; */
     font-size: 70px;
     right: 100px;
 }
 
 .subtitle {
-    /* position: relative; */
-    /* bottom: -380px; */
-    /* text-align: center;  justify-content está alinhando as coisas text-align alinha um texto dentro de outro elemento*/
     font-size: 25px;
-    /* right: -15px; */
     font-weight: lighter;
 }
 
@@ -109,6 +124,7 @@ h2 {
     text-align: center;
 
 }
+
 
 .textabout{
     color: white;
@@ -230,4 +246,7 @@ h3 {
 .footer {
     background-color: #2c3e50;
     height: 378px;
-}
+    display: flex;
+    justify-content: space-between;
+    /* width: 1350px; */
+} 
