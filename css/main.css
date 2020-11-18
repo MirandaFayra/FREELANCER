@@ -1,6 +1,3 @@
-
-/* Position antigo, flex-box grid e ordenação de posicionamento => display flex, entender o flex-box, sempre por no pai */
-
 body {
     margin: 0;
     padding: 0;
@@ -46,9 +43,8 @@ h1,h2,h3,h4 {
     font-size: 10px;
     margin-right: 15px;
     font-weight: lighter;
-
-
 }
+
 .bonequinho{
     align-items:center;
     justify-content: center;
@@ -58,6 +54,7 @@ h1,h2,h3,h4 {
     margin-top: 80px;
     margin-bottom: 35px;
 }
+
 .separador1{
     width: 250px;
     height: 150px;
@@ -79,6 +76,8 @@ h1,h2,h3,h4 {
 .textostart {
     font-size: 70px;
     right: 100px;
+    margin-bottom: 25px;
+    margin-top: 60px;
 }
 
 .subtitle {
