@@ -99,10 +99,19 @@ h2{
     height: 700px;
     color: #2c3e50;
     font-family: Lato;
-    text-align: center;
     font-size: 35px;
     text-transform: uppercase;
+     display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+
 }
+
+.portifolioname{
+margin-top: -60vh;
+}
+
 
 .separador2{
     width: 200px;
@@ -110,7 +119,6 @@ h2{
     align-items:center;
     justify-content: center;
     display: flex;
-    margin-left: 575px;
     
 }
 
@@ -127,8 +135,10 @@ h2{
 .about {
     background-color: #18bc9c;
     height: 600px;
-    text-align: center;
-    justify-content: center;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
 }
 
 
@@ -150,15 +160,13 @@ h3 {
 .container-coluna {
     display: flex;
     color: white;
-    flex-direction: row;
     justify-content: center;
     margin-right: 0px;
 }
 
 #conteudo-left {
     margin-left: auto;
-    margin-right: auto;
-    width: 20em;
+    width: 20vw;
     text-align: justify;
     float: left;
     margin-right: 0px;
@@ -166,9 +174,9 @@ h3 {
 
 
 #conteudo-right {
-    margin-left: 50px;
+    margin-left: 5vw;
     margin-right: auto;
-    width: 20em;
+    width: 20vw;
     text-align: justify;
     float: right;
 
@@ -185,23 +193,21 @@ h3 {
     height: 40px;
     border-color: white;
     border-style: double;
-    margin-left: 565px;
-    margin-top: 100px;
+    margin-top: 40px;
 }
 
 .contactme {
     background-color:white;
     height: 850px;
-    flex-direction: column;
     color:#2c3e50;
     display:flex;
     justify-content:center;
     align-items: center;
-    margin-top: 0px;
+    flex-direction: column;
 }
 
 .contactname{
-    margin-bottom: 320px;
+    margin-top:-40vh;
 }
 
 .formulario{ 
