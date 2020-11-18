@@ -24,6 +24,10 @@ h1,h2,h3,h4 {
     font-family: Lato;
 }
 
+h2{
+    margin-top: 40px;
+}
+
 .navbar {
     background-color: #2c3e50;
     display: flex;
@@ -45,6 +49,15 @@ h1,h2,h3,h4 {
     font-weight: lighter;
 }
 
+.start {
+    background-color: #18bc9c;
+    height: 700px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
 .bonequinho{
     align-items:center;
     justify-content: center;
@@ -55,15 +68,6 @@ h1,h2,h3,h4 {
     margin-bottom: 35px;
     margin-left: 0px;
     margin-right: 0px;
-}
-
-.start {
-    background-color: #18bc9c;
-    height: 700px;
-    color: white;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .separador1{
