@@ -25,7 +25,9 @@ h1,h2,h3,h4 {
 }
 
 h2{
-    margin-top: 40px;
+    margin-top: 60px;
+    font-size: 35px;
+    text-transform: uppercase;
 }
 
 .navbar {
@@ -64,19 +66,19 @@ h2{
     display: flex;
     height: 200px;
     width: 200px;
-    margin-top: 50px;
+    margin-top: 30px;
     margin-bottom: 35px;
-    margin-left: 0px;
+    margin-left: 220px;
     margin-right: 0px;
 }
 
 .separador1{
-    width: 250px;
-    height: 150px;
+    width: 200px;
+    height: 100px;
     align-items:center;
     justify-content: center;
     display: flex;
-    margin: 0;
+    margin-left: 225px;
     
 }
 .textostart {
@@ -102,17 +104,11 @@ h2{
     text-transform: uppercase;
 }
 
-h2 {
-    font-size: 35px;
-    text-transform: uppercase;
-}
+
 
 .separador3{
     width: 180px;
     height: 90px;
-    /* align-items:center;
-    justify-content: center;
-    display: flex; */
     position: relative;
     top:80px;
     right:10px;
