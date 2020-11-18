@@ -55,15 +55,6 @@ h1,h2,h3,h4 {
     margin-bottom: 35px;
 }
 
-.separador1{
-    width: 250px;
-    height: 150px;
-    align-items:center;
-    justify-content: center;
-    display: flex;
-    margin: 0;
-    
-}
 .start {
     background-color: #18bc9c;
     height: 700px;
@@ -73,6 +64,15 @@ h1,h2,h3,h4 {
     align-items: center;
 }
 
+.separador1{
+    width: 250px;
+    height: 150px;
+    align-items:center;
+    justify-content: center;
+    display: flex;
+    margin: 0;
+    
+}
 .textostart {
     font-size: 70px;
     right: 100px;
