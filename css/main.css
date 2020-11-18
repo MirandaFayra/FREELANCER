@@ -84,8 +84,8 @@ h2{
 .textostart {
     font-size: 70px;
     right: 100px;
-    margin-bottom: 25px;
-    margin-top: 60px;
+    margin-bottom: 20px;
+    margin-top: 50px;
 }
 
 .subtitle {
@@ -107,24 +107,26 @@ h2{
 
 
 .separador3{
-    width: 180px;
-    height: 90px;
-    position: relative;
-    top:80px;
-    right:10px;
-    margin: 0;
+    width: 200px;
+    height: 100px;
+    align-items:center;
+    justify-content: center;
+    display: flex;
+    margin-left: 580px;
     
 }
 
 .about {
     background-color: #18bc9c;
-    height: 691.7px;
+    height: 600px;
     text-align: center;
 }
 
 
 .textabout{
     color: white;
+
+    
 }
 
 h3 {
@@ -140,8 +142,6 @@ h3 {
     display: flex;
     color: white;
     flex-direction: row;
-    position: relative;
-    bottom: -170px;
     justify-content: center;
     margin-right: 0px;
 }
@@ -166,8 +166,9 @@ h3 {
 }
 
 .dowload {
-    position: relative;
-    bottom: -220px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     font-family: Lato;
     background-color: #18bc9c;
     color: white;
@@ -175,6 +176,8 @@ h3 {
     height: 40px;
     border-color: white;
     border-style: double;
+    margin-left: 565px;
+    margin-top: 100px;
 }
 
 .contactme {
