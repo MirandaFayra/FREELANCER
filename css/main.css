@@ -104,7 +104,15 @@ h2{
     text-transform: uppercase;
 }
 
-
+.separador2{
+    width: 200px;
+    height: 100px;
+    align-items:center;
+    justify-content: center;
+    display: flex;
+    margin-left: 575px;
+    
+}
 
 .separador3{
     width: 200px;
@@ -120,6 +128,7 @@ h2{
     background-color: #18bc9c;
     height: 600px;
     text-align: center;
+    justify-content: center;
 }
 
 
@@ -189,6 +198,10 @@ h3 {
     justify-content:center;
     align-items: center;
     margin-top: 0px;
+}
+
+.contactname{
+    margin-bottom: 320px;
 }
 
 .formulario{ 
