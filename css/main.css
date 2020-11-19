@@ -207,7 +207,7 @@ h3 {
 }
 
 .contactname{
-    margin-top:-40vh;
+    margin-top:-25vh;
 }
 
 .formulario{ 
@@ -216,7 +216,8 @@ h3 {
     display: flex;
     border-color:white;
     flex-direction: column;
-    }
+    margin-top: 10vh;
+}
 
 .espaço{
        padding-bottom: 40px;
