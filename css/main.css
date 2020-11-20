@@ -112,6 +112,19 @@ h2{
 margin-top: -60vh;
 }
 
+.coluna{
+  float: left;
+  width: 33.33%;
+  justify-content: space-between;
+  
+}
+
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
 
 .separador2{
     width: 200px;
@@ -143,9 +156,7 @@ margin-top: -60vh;
 
 
 .textabout{
-    color: white;
-
-    
+    color: white;    
 }
 
 h3 {
