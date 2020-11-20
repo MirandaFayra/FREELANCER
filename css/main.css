@@ -119,12 +119,23 @@ margin-top: -60vh;
   
 }
 
+.row{
+    width: 1000px;
+    height:500px;
+    justify-content: space-around;
+    align-items: center;
+}
 .row::after {
     content: "";
     clear: both;
     display: table;
 }
 
+img{
+    max-width:95%;
+    margin-top: 15px;
+    margin-right: 20px;
+}
 
 .separador2{
     width: 200px;
