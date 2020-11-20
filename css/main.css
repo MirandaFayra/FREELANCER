@@ -96,7 +96,7 @@ h2{
 
 .portfolio {
     background-color: rgb(255, 255, 255);
-    height: 700px;
+    height: 850px;
     color: #2c3e50;
     font-family: Lato;
     font-size: 35px;
@@ -109,7 +109,7 @@ h2{
 }
 
 .portifolioname{
-margin-top: -60vh;
+margin-top:5px;
 }
 
 .coluna{
@@ -124,6 +124,7 @@ margin-top: -60vh;
     height:500px;
     justify-content: space-around;
     align-items: center;
+   
 }
 .row::after {
     content: "";
